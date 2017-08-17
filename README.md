@@ -8,7 +8,7 @@
 # install dependencies
 npm install
 
-# bundle all js file and minification
+# bundle all js files and minification
 npm run build
 
 # run server at localhost:1234
